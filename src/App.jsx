@@ -42,7 +42,7 @@ export default function SouthernSpoonApp(){
         body { font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial; background: #fff7e6; }
         .ss-card { background: #fff; border-radius: 10px; box-shadow: 0 6px 18px rgba(15,23,42,0.06); }
         .ss-sticky { position: sticky; bottom: 0; z-index: 60; }
-        .ss-touch { min-height:44px; min-width:45px; }
+        .ss-touch { min-height:44px; min-width:50px; }
         .ss-anim { transition: transform 140ms cubic-bezier(.2,.8,.2,1), box-shadow 140ms cubic-bezier(.2,.8,.2,1); }
         .ss-anim:hover { transform: translateY(-3px); box-shadow: 0 8px 20px rgba(15,23,42,0.12); }
         .ss-anim:active { transform: translateY(0) scale(0.98); box-shadow: 0 4px 8px rgba(15,23,42,0.08); }
