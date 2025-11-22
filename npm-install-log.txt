@@ -1,0 +1,24 @@
+npm verbose cli C:\Program Files\nodejs\node.exe C:\Program Files\nodejs\node_modules\npm\bin\npm-cli.js
+npm info using npm@10.9.3
+npm info using node@v22.20.0
+npm verbose title npm install tailwindcss postcss autoprefixer
+npm verbose argv "install" "--save-dev" "tailwindcss" "postcss" "autoprefixer" "--loglevel" "verbose"
+npm verbose logfile logs-max:10 dir:C:\Users\aswan\AppData\Local\npm-cache\_logs\2025-11-19T11_13_26_767Z-
+npm verbose logfile C:\Users\aswan\AppData\Local\npm-cache\_logs\2025-11-19T11_13_26_767Z-debug-0.log
+npm http fetch GET 200 https://registry.npmjs.org/autoprefixer 188ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/postcss 57ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/tailwindcss 222ms (cache miss)
+npm http fetch POST 200 https://registry.npmjs.org/-/npm/v1/security/advisories/bulk 325ms
+
+up to date, audited 165 packages in 1s
+
+38 packages are looking for funding
+  run `npm fund` for details
+
+found 0 vulnerabilities
+npm verbose cwd C:\CloudKitchenProject\southern-spoon
+npm verbose os Windows_NT 10.0.26100
+npm verbose node v22.20.0
+npm verbose npm  v10.9.3
+npm verbose exit 0
+npm info ok
